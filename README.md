@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Tiago
+# 👋 Olá, eu sou o Tiago (Txagouuu)
 ### Estudante de Engenharia de Software | Desenvolvedor Backend (Python) & Segurança
 
 Focado em construir aplicações seguras e eficientes, aplicando práticas de DevSecOps desde o início do ciclo de vida do software.
@@ -42,4 +42,5 @@ Focado em construir aplicações seguras e eficientes, aplicando práticas de De
 ### 📊 Estatísticas
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Txagouuu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="170em" src="
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Txagouuu&langs_count=7&theme=radical" />
+</p>
