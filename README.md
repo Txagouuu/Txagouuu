@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Tiago (Txagouuu)
+# 👋 Olá, eu sou o Tiago
 ### Estudante de Engenharia de Software | Desenvolvedor Backend (Python) & Segurança
 
 Focado em construir aplicações seguras e eficientes, aplicando práticas de DevSecOps desde o início do ciclo de vida do software.
