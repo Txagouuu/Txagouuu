@@ -10,37 +10,44 @@ Focado em construir aplicações seguras e eficientes, aplicando práticas de De
 
 ---
 
-### ⚙️ Principais Habilidades (Stack)
+### 🛠️ Tecnologias & Ferramentas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-</p>
+**Backend & Scripting**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
 
----
-
-### 🚀 Projetos & Experiência Prática
-
-* **Sistema CRUD em Python**
-    * *Projeto de backend para gerenciamento de usuários com persistência em JSON.*
-    * **Habilidades:** POO (Programação Orientada a Objetos), manipulação de arquivos, estrutura de pacotes.
-
-* **Lab: TryHackMe - Mr. Robot**
-    * *CTF prático focado em enumeração de serviços, exploração de vulnerabilidades e escalada de privilégios.*
-    * **Habilidades:** Metodologia de Pentest, análise de logs, exploração web.
-
-* **StreamPlus (Projeto Acadêmico)**
-    * *Modelagem de um sistema de streaming usando Notação Z.*
-    * **Habilidades:** Engenharia de Requisitos, especificação formal.
+**Infraestrutura, OS & Ferramentas**
+<br>
+<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
 
 ---
 
-### 📊 Estatísticas
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Txagouuu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Txagouuu&langs_count=7&theme=radical" />
-</p>
+### 🚀 Projetos em Destaque
+
+> *Projetos focados em resolução de problemas reais e segurança.*
+
+#### 🔐 1. Sistema CRUD em Python
+*Backend robusto para gerenciamento de usuários com persistência de dados.*
+* **O que resolve:** Gerencia ciclo de vida de usuários sem necessidade de banco de dados externo complexo para pequenas escalas.
+* **Tech:** Python, JSON, POO.
+* [🔗 **Ver Código**](https://github.com/Txagouuu/analise-de-dados-com-python)
+
+#### 🥒 2. Lab: TryHackMe - Pickle Rick
+*CTF prático focado em segurança ofensiva e análise de vulnerabilidades web.*
+* **Habilidades:** Enumeração de serviços, exploração de vulnerabilidades web, escalada de privilégios em Linux.
+* **Metodologia:** Pentest Web & System Exploitation.
+* [🔗 **Ver Write-up/Repo**](https://tryhackme.com/room/picklerick?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=670c68e93ea37177e1f5f058)
+
+
+---
+
+### 📫 Vamos Conectar?
+
+Estou sempre aberto a discutir sobre **Segurança da Informação**, **Python** e **DevSecOps**.
+
+* **LinkedIn:** [Tiago Andrei](https://www.linkedin.com/in/tiago-andrei-de-almeida-mendonça-9468bb272)
+* **Email:** [tiagomendon45@gmail.com](mailto:tiagomendon45@gmail.com)
