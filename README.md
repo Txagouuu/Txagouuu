@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Tiago
-### Estudante de Engenharia de Software | Desenvolvedor Backend (Python) & Segurança
+### Estudante de Engenharia de Software | Estudante de Segurança Cibernética
 
 Focado em construir aplicações seguras e eficientes, aplicando práticas de DevSecOps desde o início do ciclo de vida do software.
 
